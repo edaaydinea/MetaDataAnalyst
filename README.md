@@ -1,55 +1,59 @@
-# Detailed README
+# Meta Data Analyst Professional Certificate
 
-## Specializations
+- **Where:** Coursera
+- **University/Institute:** IBM
+- **Status:** In Progress
 
-### [Specialization Name]
-- **Where:** [Platform where you are taking this specialization]
-- **University/Institute:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
+## Courses in this Specialization
 
-#### Courses in this Specialization
-1. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+1. Introduction to Data Analytics
+   - **Status:** In Progress
+   - **Link:** <https://www.coursera.org/learn/data-analytics-introduction?specialization=meta-data-analyst>
 
-2. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+2. Data Analysis with Spreadsheepts and SQL
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/data-analysis-with-spreadsheets-and-sql?specialization=meta-data-analyst>
+  
+3. Python Data Analytics
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/python-data-analytics?specialization=meta-data-analyst>
+
+4. Statistics Foundations
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/statistics-for-marketing?specialization=meta-data-analyst>
+  
+5. Introduction to Data Management
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/introduction-to-data-management?specialization=meta-data-analyst>
 
 ...
 
 ## Courses
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+### Introduction to Data Analytics
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+- **Week1: Working with Data**
+  - **Status:** Completed
+  - **Note:** <https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week1/lecture_note.md>
 
-...
+- **Week2: Obtaining and Scrubbing Data**
+  - **Status:** Completed
+  - **Note:** <https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week2/lecture_note.md>
 
-## Other Activities
+- **Week3: Exploring and Modeling Data**
+  - **Status:** Completed
+  - **Note:** <https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week3/lecture_note.md>
 
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
+- **Week4: Interpreting Data**
+  - **Status:** Completed
+  - **Note:** <https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week4/lecture_note.md>
 
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
+- **Week5: [Optional] GenAI in Data Analytics**
+  - **Status:** Not Started
+  - **Note:**  <https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week5/lecture_note.md>
 ...
 
 ## Certificates
 
-- **[Certificate Name]**
-  - **Where:** [Platform where the certificate was earned]
-  - **Link:** [URL to certificate, if available]
+- **Introduction to Data Analytics**
+  - **Link:** https://coursera.org/share/29b55b1f948cd593483193efd94ee1da
