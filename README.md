@@ -7,7 +7,7 @@
 ## Courses in this Specialization
 
 1. Introduction to Data Analytics
-   - **Status:** In Progress
+   - **Status:** Completed
    - **Link:** <https://www.coursera.org/learn/data-analytics-introduction?specialization=meta-data-analyst>
 
 2. Data Analysis with Spreadsheepts and SQL
@@ -33,27 +33,21 @@
 ### Introduction to Data Analytics
 
 - **Week1: Working with Data**
-  - **Status:** Completed
-  - **Note:** <https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week1/lecture_note.md>
+  - [**Note:**](https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week1/lecture_note.md)
 
 - **Week2: Obtaining and Scrubbing Data**
-  - **Status:** Completed
-  - **Note:** <https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week2/lecture_note.md>
+  - [**Note:**](https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week2/lecture_note.md)
 
 - **Week3: Exploring and Modeling Data**
-  - **Status:** Completed
-  - **Note:** <https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week3/lecture_note.md>
+  - [**Note:**](https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week3/lecture_note.md)
 
 - **Week4: Interpreting Data**
-  - **Status:** Completed
-  - **Note:** <https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week4/lecture_note.md>
+  - [**Note:**](https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week4/lecture_note.md)
 
 - **Week5: [Optional] GenAI in Data Analytics**
-  - **Status:** Not Started
-  - **Note:**  <https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week5/lecture_note.md>
+  - [**Note:**](https://github.com/edaaydinea/MetaDataAnalyst/blob/main/L1/Week5/lecture_note.md)
 ...
 
 ## Certificates
 
-- **Introduction to Data Analytics**
-  - **Link:** https://coursera.org/share/29b55b1f948cd593483193efd94ee1da
+- [**Introduction to Data Analytics**]https://coursera.org/share/29b55b1f948cd593483193efd94ee1da
